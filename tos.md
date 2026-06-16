@@ -65,4 +65,4 @@ For support, legal inquiries, or data deletion requests, contact us through:
 
 **Support Server:** https://dsc.gg/shadowcore
 
-**Website:** https://shadowcorebot.org
+**Website:** https://shadowcore.org
