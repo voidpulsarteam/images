@@ -2,96 +2,64 @@
 
 *Last Updated: June 16, 2026*
 
-By inviting, accessing, or using ShadowCore ("the Bot", "Service"), you agree to these Terms of Service. If you do not agree with these terms, you must immediately discontinue use of the Service and remove the Bot from your server.
+By using ShadowCore ("the Bot"), you agree to these Terms of Service. If you do not agree, please remove the Bot and discontinue use immediately.
 
-## 1. Acceptance of Terms
-
-By using ShadowCore, you acknowledge that you have read, understood, and agreed to these Terms of Service and the accompanying Privacy Policy. These terms apply to all users, server owners, administrators, moderators, and members who interact with the Bot.
-
-## 2. Acceptable Use
+## 1. Using ShadowCore
 
 You agree not to:
 
-* Use ShadowCore for spam, harassment, abuse, or malicious activities.
-* Attempt to exploit, reverse engineer, disrupt, or compromise the Bot, its infrastructure, or related services.
-* Circumvent, manipulate, or interfere with moderation systems, security features, or automated protections.
-* Attempt prompt injection, jailbreaking, or other methods intended to bypass AI safeguards or system restrictions.
-* Use the Service in violation of Discord's Terms of Service or Community Guidelines.
-* Engage in activities that negatively impact the stability, security, or availability of the Service.
+* Use the Bot for spam, harassment, abuse, or malicious activities.
+* Attempt to exploit, disrupt, reverse engineer, or damage the Bot or its services.
+* Bypass security, moderation systems, or AI safeguards.
+* Use the Bot in violation of Discord's Terms of Service or Community Guidelines.
 
-## 3. Service Availability
+## 2. Service Availability
 
 ShadowCore is provided on an "as available" basis.
 
-We reserve the right to:
+We may update, modify, suspend, or remove features at any time without notice. We do not guarantee uninterrupted service, uptime, or error-free operation.
 
-* Modify, update, suspend, or discontinue any feature at any time.
-* Perform maintenance without prior notice.
-* Restrict access to certain features or services.
-* Introduce new features, limitations, or requirements.
+## 3. User Responsibility
 
-We do not guarantee uninterrupted availability, uptime, or error-free operation.
+You are responsible for how you use ShadowCore through your Discord account.
 
-## 4. User Responsibility
+Server owners and administrators are responsible for ensuring the Bot is used appropriately within their communities.
 
-Users are responsible for all actions performed through their Discord account while interacting with ShadowCore.
+## 4. AI Features
 
-Server owners and administrators are responsible for ensuring the Bot is used appropriately within their communities and complies with Discord's policies.
+Some features may use artificial intelligence.
 
-## 5. AI Features & Generated Content
+AI responses may be inaccurate or incomplete and should not be considered professional, legal, financial, medical, or technical advice. You are responsible for any actions taken based on AI-generated content.
 
-Certain ShadowCore features may utilize artificial intelligence technologies.
+## 5. Virtual Economy
 
-By using these features, you acknowledge that:
+Any virtual currency, levels, experience, achievements, or other digital items within ShadowCore:
 
-* AI-generated responses may be inaccurate, incomplete, or unexpected.
-* Generated content should not be considered professional, legal, financial, medical, or technical advice.
-* Users remain solely responsible for decisions or actions taken based on AI-generated output.
+* Have no real-world value.
+* Cannot be exchanged for money.
+* May be changed, reset, or removed at any time.
 
-ShadowCore and its developers are not liable for damages resulting from reliance on generated content.
+## 6. Privacy
 
-## 6. Virtual Economy & Digital Assets
+Your use of ShadowCore is also governed by our Privacy Policy. By using the Bot, you consent to the collection and processing of data required to operate the service.
 
-Any virtual currency, experience points, levels, collectibles, achievements, or digital assets provided by ShadowCore:
+## 7. Suspension & Termination
 
-* Have no real-world monetary value.
-* Cannot be exchanged for cash or legal tender.
-* May be modified, reset, removed, or rebalanced at any time.
+We may suspend or permanently restrict access to ShadowCore at any time for violations of these Terms, abuse of the service, security concerns, or other harmful activity.
 
-We reserve the right to wipe or reset economy-related data without compensation or notice.
+## 8. Limitation of Liability
 
-## 7. Data & Privacy
-
-Use of ShadowCore is also governed by our Privacy Policy.
-
-By using the Service, you consent to the collection and processing of information necessary for the operation of the Bot, including server configuration data, command usage, and other operational data described in our Privacy Policy.
-
-## 8. Suspension & Termination
-
-We reserve the right to suspend, restrict, or permanently terminate access to ShadowCore at our sole discretion, including but not limited to cases involving:
-
-* Violations of these Terms of Service.
-* Abuse of the Service.
-* Security threats or malicious activity.
-* Actions that negatively impact other users or the platform.
-
-Termination may occur without prior notice.
-
-## 9. Limitation of Liability
-
-To the fullest extent permitted by applicable law, ShadowCore, VoidPulse, its developers, contributors, and affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from the use or inability to use the Service.
+ShadowCore, VoidPulse, its developers, and contributors are not responsible for any damages, losses, or issues resulting from the use of the Bot.
 
 Use of ShadowCore is at your own risk.
 
-## 10. Changes to These Terms
+## 9. Changes to These Terms
 
-We reserve the right to update or modify these Terms of Service at any time.
+We may update these Terms at any time. Continued use of ShadowCore after changes are posted means you accept the updated Terms.
 
-Continued use of ShadowCore after changes become effective constitutes acceptance of the revised terms.
+## 10. Contact
 
-## 11. Contact & Support
-
-For questions, support requests, data deletion requests, or legal inquiries, contact us through one of the following methods:
+For support, legal inquiries, or data deletion requests, contact us through:
 
 **Email:** [voidpulsaryt@gmail.com](mailto:voidpulsaryt@gmail.com)
 
